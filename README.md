@@ -128,8 +128,10 @@ python evaluate.py
 
 
 
-**Author:** Md Nahidul Islam  
-**GitHub:** [MdNahidulIslam]([https://github.com/MdNahidulIslam](https://github.com/leon-dream1))
+## Author
+
+**Md Nahidul Islam**  
+**GitHub:** [leon-dream1](https://github.com/leon-dream1)
 
 
 
