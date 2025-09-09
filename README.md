@@ -47,10 +47,12 @@ The pipeline is divided into **two phases**:
 - Contains images and metadata CSV file.  
 
 **Folder structure:**
+```bash
 HAM10000/
 ├── HAM10000_images_part_1/
 ├── HAM10000_images_part_2/
 └── HAM10000_metadata.csv
+```
 
 ---
 
@@ -126,8 +128,8 @@ python evaluate.py
 
 
 
-Author: Md Nahidul Islam
-GitHub: [github.com/username](https://github.com/leon-dream1)
+**Author:** Md Nahidul Islam  
+**GitHub:** [MdNahidulIslam]([https://github.com/MdNahidulIslam](https://github.com/leon-dream1))
 
 
 
